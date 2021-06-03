@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning to all lewd livers. By the example of a disobedient child, who riotously wasted and consumed his fathers and mothers goods, and also his own, among strumpets and other lewd livers, and after died most miserably on a dung-hill. To the tune of, Sir Andrew Barton.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27853</idno><idno type="EEBO-CITATION">70804051</idno>
+  <idno type="VID">192752</idno>
+  <idno type="EEBO-PROQUEST">2240887108</idno>
+  
+            <idno type="STC">Wing P448_VARIANT</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[262]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[263]</idno>
+            <idno type="OCLC">70804051</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27853)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192752)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[153])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning to all lewd livers. By the example of a disobedient child, who riotously wasted and consumed his fathers and mothers goods, and also his own, among strumpets and other lewd livers, and after died most miserably on a dung-hill. To the tune of, Sir Andrew Barton.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>P[rin]ted for Fra. Grove on Snow-hill, [En]tred according to order.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[169?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: M.P.</note>
+                  <note>Variously attributed to Martin Parker (Wing 2nd ed.) and Lawrence Price (British Library).</note>
+                  <note>Date of publication suggested by edition in Wing (2nd ed.)</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">M. P. --  (Martin Parker), d. 1656?</term>
+               <term type="personal_name">L. P. --  (Laurence Price), fl. 1625-1680?</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:192752:1"/>
+            <head>A Warning to all lewd Livers.</head>
+            <head type="sub">By the Example of a disobedient Child, who riotously wasted and consumed his Fathers and Mothers goods, and also his own, among strumpets and other Lewd Livers, and after died most miserably on a Dung-hill.</head>
+            <opener>To the Tune of, Sir Andrew Barton.</opener>
+            <p>
+               <figure>
+                  <figDesc>demonic figure with horns, pointed tail, wings, and an erect phallus</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>a man</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>a woman</figDesc>
+               </figure>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>MY bléeding heart with grief and care</l>
+                  <l>doth wish all young men to beware</l>
+                  <l>That they no such like steps may tread</l>
+                  <l>nor lead the life which I have lead.</l>
+               </lg>
+               <lg>
+                  <l>My Father was a Gentleman</l>
+                  <l>as many Gallants witnesse can</l>
+                  <l>He had no sons but onely I,</l>
+                  <l>which made his gold and silver flye.</l>
+               </lg>
+               <lg>
+                  <l>When as my Father had me sent</l>
+                  <l>to fell his goods and take up rent</l>
+                  <l>I did consume and waste the same.</l>
+                  <l>in drinking or unlawful game.</l>
+               </lg>
+               <lg>
+                  <l>The Cards and Dice were my delight,</l>
+                  <l>I haunted Taverns Day and Night</l>
+                  <l>Lewd Women were my chiefest Ioys</l>
+                  <l>and my conforts were cut-purse boys.</l>
+               </lg>
+               <lg>
+                  <l>Gods holy Word I dis-obey'd</l>
+                  <l>I car'd not what the Preacher said</l>
+                  <l>For quaffing cans of Ale and Béer,</l>
+                  <l>was all the service I would hear.</l>
+               </lg>
+               <lg>
+                  <l>Thus acting my ungracious part</l>
+                  <l>I broke my aged fathers heart</l>
+                  <l>When gashly death on him did seize</l>
+                  <l>I thought my self in happy case.</l>
+               </lg>
+               <lg>
+                  <l>What he had left I thought well got,</l>
+                  <l>but now the shame falls to my lot</l>
+                  <l>Five hundred pound in good red Gold,</l>
+                  <l>for wine and béer I quickly sold.</l>
+               </lg>
+               <lg>
+                  <l>Then was I prest to serve the King,</l>
+                  <l>that might my name to honour bring</l>
+                  <l>A Souldiers life I hold it base</l>
+                  <l>and alwaies took it in disgrace.</l>
+               </lg>
+               <lg>
+                  <l>And having thus consum'd my store,</l>
+                  <l>I to my Mother went for more</l>
+                  <l>Who sold and morgag'd all her land,</l>
+                  <l>and put the mony in my hand.</l>
+               </lg>
+               <lg>
+                  <l>And then with tears these words she said</l>
+                  <l>thou knowest my Son thy fathers dead</l>
+                  <l>No more is left but I and thee</l>
+                  <l>therefore dear Son be good to mée.</l>
+               </lg>
+               <lg>
+                  <l>If that thy love from me should fall</l>
+                  <l>I have no friend on earth at all</l>
+                  <l>Therefore good Son to me prove kind</l>
+                  <l>and thou reward in heaven shalt finde.</l>
+               </lg>
+               <lg>
+                  <l>Then on my bended knées fell I</l>
+                  <l>desiring of the Lord on high</l>
+                  <l>A shameful death might be his end▪</l>
+                  <l>that would his Mother once offend.</l>
+               </lg>
+               <lg>
+                  <l>All you that do no reckoning make</l>
+                  <l>of swearing when your words you speak</l>
+                  <l>Give ear to that which Ile you tell</l>
+                  <l>lewd livers seldome dyed well</l>
+               </lg>
+               <lg>
+                  <l>You disobedient children all</l>
+                  <l>draw néer and listen to my fall.</l>
+                  <l>Example take, repent <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> time</l>
+                  <l>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st that your woes be like to mine</l>
+               </lg>
+               <pb facs="tcp:192752:1"/>
+               <pb facs="tcp:192752:2"/>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:192752:2"/>
+               <head>The second part to the same Tune.</head>
+               <p>
+                  <figure>
+                     <figDesc>a man and two women</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>YOu fathers déer and mothers kinde,</l>
+                  <l>bear you this lesson in your minde</l>
+                  <l>Trust not too much a wicked Child,</l>
+                  <l>for oft times men are so beguil'd.</l>
+               </lg>
+               <lg>
+                  <l>When twigs are gréen you may them ply</l>
+                  <l>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut let them grow till they be dry</l>
+                  <l>They will so stiffe and stubborn stand</l>
+                  <l>you cannot bend them with your hand.</l>
+               </lg>
+               <lg>
+                  <l>So I that ran a wicked race</l>
+                  <l>and to amend had not the grace</l>
+                  <l>Sixtéen score pound in good red gold</l>
+                  <l>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nto my hand my mother told</l>
+               </lg>
+               <lg>
+                  <l>But in the compass of one year</l>
+                  <l>I spent it all as may appear</l>
+                  <l>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd having left no means at all,</l>
+                  <l>I unto robbing straight did fall</l>
+               </lg>
+               <lg>
+                  <l>Then did I steal my mothers Rings,</l>
+                  <l>her brass, her pewter, and such things,</l>
+                  <l>The very bed whereon she lay</l>
+                  <l>I like a villiam stole away.</l>
+               </lg>
+               <lg>
+                  <l>What ever I could get or take</l>
+                  <l>I thereof straight would money make</l>
+                  <l>My flinty heart did feel no grief,</l>
+                  <l>to see my mother want relief.</l>
+               </lg>
+               <lg>
+                  <l>At last she grew excéeding poor</l>
+                  <l>and beg'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> relief from door to door,</l>
+                  <l>No Infidel nor Pagan vild</l>
+                  <l>could bring to light so bad a child.</l>
+               </lg>
+               <lg>
+                  <l>At last my mother lost her breath</l>
+                  <l>as she constrained was by death</l>
+                  <l>Who yeild<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lief when friends gro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> sc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt</l>
+                  <l>and easeth those that are in want</l>
+               </lg>
+               <lg>
+                  <l>From place to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lace then was I tost</l>
+                  <l>by every man and woman <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rost,</l>
+                  <l>No harbour could I get whereby</l>
+                  <l>I might at night in safe-guard lye</l>
+               </lg>
+               <lg>
+                  <l>My dearest kinsfolks do me chide</l>
+                  <l>my nearest friends mock and deride</l>
+                  <l>Those that were my consorts of late</l>
+                  <l>their love is turned into hate.</l>
+               </lg>
+               <lg>
+                  <l>Those that have feasted many a time</l>
+                  <l>and fed upon that which was mine</l>
+                  <l>Despise at me a long the stréet</l>
+                  <l>as if they should a Serpent meet.</l>
+               </lg>
+               <lg>
+                  <l>Both Old and Young, both great &amp; smal,</l>
+                  <l>both rich and poor despise me all</l>
+                  <l>No friend to take my part have I</l>
+                  <l>but was constrain'd in field to lie.</l>
+               </lg>
+               <lg>
+                  <l>In this my extream miserie,</l>
+                  <l>my grief, and my necessitie</l>
+                  <l>No creature gave for my relief</l>
+                  <l>one peece of bread to ease my grief</l>
+               </lg>
+               <lg>
+                  <l>But like a poor despised wretch</l>
+                  <l>his latest gaspe that he did fetch</l>
+                  <l>Was on a Dung-hil in she night</l>
+                  <l>when as no creature was in sight.</l>
+               </lg>
+               <lg>
+                  <l>But in the morning he was found,</l>
+                  <l>as cold as clay upon the ground</l>
+                  <l>Thus was he born in shame to die</l>
+                  <l>and end his daies in misery.</l>
+               </lg>
+               <lg>
+                  <l>Take warning young men by this vice</l>
+                  <l>learn to avoid both Cards and Dice</l>
+                  <l>Lewd womens company forbear</l>
+                  <l>they are the high-way unto care</l>
+               </lg>
+               <lg>
+                  <l>All Parents whilst your babes be y<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>g</l>
+                  <l>look to their waies in hand and tong<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>Then wickednesse will not abound</l>
+                  <l>but <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>race in children may be found.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <signed>M. P.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London. P<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ed for Fra. Grove on Snow-hill, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>tred according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
